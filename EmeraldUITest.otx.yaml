@@ -189,6 +189,6 @@ steps:
                   - val: Place Order
         - pause: 10s
 vars:
-  DEPLOYMENT_URL: https://commerce-preview.sbx0197.play.hclsofy.com/Emerald
+  DEPLOYMENT_URL: https://commerce-preview.sbx0197.play.hclsofy.com/Emerald?storeId=11
   ITEM_NAME: bunk bed
   ADDRESS_NAME: AddressType1
